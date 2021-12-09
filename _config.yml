@@ -1,5 +1,6 @@
 title: Nu ink.
 description: イノフェスの筑波大生演出チーム
+logo: images/logo.png
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
