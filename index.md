@@ -7,10 +7,10 @@
 普段なら交わらない”人”や”学問”をつないでイノベーションを起こすという目標を掲げて活動中！
 
 # Menu
-- [2022年度新歓情報](/shinkan/selfintro)
-- [Activity](/menu/activity)
-- [Archive](/menu/archive)
-- [Contact](/menu/contact)
+- [2022年度新歓情報](./shinkan/selfintro)
+- [Activity](./menu/activity)
+- [Archive](./menu/archive)
+- [Contact](./menu/contact)
 
 # News
 ### ★新歓情報続々公開中！
