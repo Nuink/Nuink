@@ -1,5 +1,5 @@
-![イノフェスの画像](/images/inofess.jpg)
-![TIGのロゴ](/images/TIGlogo.jpg)
+![イノフェスの画像](./images/inofess.jpg)
+![TIGのロゴ](./images/TIGlogo.jpg)
 
 # 2021年度の活動の記録
 - [INNOVATION WORLD FESTA2021(J-WAVE×筑波大学 主催フェス)](https://www.j-wave.co.jp/iwf2021/)

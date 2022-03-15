@@ -1,4 +1,4 @@
-![シブキの画像](/images/shibuki_01.jpg)
+![シブキの画像](./images/shibuki_01.jpg)
 
 # Nu ink. について
 このページは，Nu ink. の概要を簡単にまとめたものです．

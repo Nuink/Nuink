@@ -1,4 +1,4 @@
-![過去の写真](/images/archive_01.jpg)
+![過去の写真](./images/archive_01.jpg)
 
 # Archive
 随時更新予定！
