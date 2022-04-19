@@ -14,7 +14,12 @@
 
 # News
 ### ★新歓情報続々公開中！
-新歓情報を随時更新いたします！
+新入生向け説明会
+4/16 (土) 14:00- 
+4/19(火) 18:30-
+4/23(土) 14:00- 
+4/26(火) 18:30-
+申し込みは[コチラ](https://docs.google.com/forms/d/e/1FAIpQLScBb7KijFlxW_bEi_Ca1JWfpbLAVucx0DtDUOXjkmdKUkS1fg/viewform)から！
 
 Nu ink.の公式[Twitter](https://twitter.com/NuinkTSUKUBA?s=20&t=UFY0Xe02B2AkNe9OqBFMrg)と公式[Instagram](https://www.instagram.com/nuinktsukuba/?hl=ja)をフォローしてチェックしてください！
 
