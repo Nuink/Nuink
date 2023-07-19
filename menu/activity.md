@@ -1,7 +1,8 @@
 ![イノフェスの画像](../images/inofess.jpg)
 ![TIGのロゴ](../images/TIGlogo.jpg)
 
-# 2021年度の活動の記録
+# 2021年度以降の活動の記録
+- [INNOVATION WORLD FESTA2022(J-WAVE×筑波大学　主催フェス)](https://www.j-wave.co.jp/iwf2022/)
 - [INNOVATION WORLD FESTA2021(J-WAVE×筑波大学 主催フェス)](https://www.j-wave.co.jp/iwf2021/)
 - [TSUKUBA INNOVATION GALLERY(Nu ink.独自開催イベント)](https://nuink.github.io/TIG_2021/)
 
